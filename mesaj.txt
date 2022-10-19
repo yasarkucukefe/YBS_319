@@ -1,0 +1,2 @@
+Bu bir şifreli metindir.
+Gizli bilgiler içermektedir.
